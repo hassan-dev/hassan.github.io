@@ -1,6 +1,6 @@
 > [CarWaala](https://itshassan.me)
 >
-> [Post It](./another-page.md)
+> [Post It](./post-it.md)
 
 # CarWaala
 
