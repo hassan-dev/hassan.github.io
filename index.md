@@ -1,6 +1,6 @@
 > [CarWaala](https://itshassan.me)
 >
-> [Post It](http://postkar.netlify.com)
+> [Post It](./another-page.md)
 
 # CarWaala
 
