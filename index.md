@@ -1,6 +1,8 @@
 > [CarWaala](https://itshassan.me)
 >
-> [Post It](./post-it.md)
+> [PostKar](./post-it.md)
+>
+> [VU-Help](./vu-help.md)
 
 # CarWaala
 
@@ -14,7 +16,7 @@ CarWaala web and ios application is useful for those users who want to avail car
 
 ## Gitlab repository
 
-> [CarWaala git reposity](http://vu-help.herokuapp.com/forum).
+> [CarWaala git repository](http://vu-help.herokuapp.com/forum).
 >
 
 #### Tools used
