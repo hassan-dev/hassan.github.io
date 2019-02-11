@@ -1,6 +1,6 @@
 > [CarWaala](https://itshassan.me)
 >
-> [PostKar](./post-it.md)
+> [PostKar](./post-kar.md)
 >
 > [VU-Help](./vu-help.md)
 
